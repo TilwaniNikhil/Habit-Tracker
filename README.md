@@ -3,13 +3,6 @@
 An application to help the user track their daily habits, where it's possible to sign-up and sign-in to create a personal space! <br/>
 First time using libs like ```react-circular-progressbar``` and ```dayjs```!
 
-## Table of Contents
-
-- [Overview](#overview)
-  - [About](#about)
-- [Built with](#built-with)
-- [How to run](#how-to-run)
-- [Author](#author)
 
 ## Overview
 
@@ -18,9 +11,6 @@ First time using libs like ```react-circular-progressbar``` and ```dayjs```!
 </div>
 
 <br />
-
-Try it out now <a href="https://track-it-lucas-zz.vercel.app/" target="_blank"><strong>here</strong></a>.
-###### obs: has a certain responsivity to Tablet and Desktop.
 
 ### About
 
@@ -85,9 +75,3 @@ npm run build
 
 4. Finally, access http://localhost:3000 (the port ':3000' is subjected to changes) on your favorite browser (unless it is Internet Explorer. In this case, review your life decisions)
 
-## Author
-
-- LinkedIn - [Lucas Azzolini Vieira](https://www.linkedin.com/in/azzolinilucas/)
-- Frontend Mentor - [@Lucas-zz](https://www.frontendmentor.io/profile/Lucas-zz)
-- GMail - [lucasazzollinivieira@gmail.com](mailto:lucasazzollinivieira@gmail.com)
-<!-- - Twitter - [@zulenno](https://twitter.com/zulenno) -->
